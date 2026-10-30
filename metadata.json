@@ -1,0 +1,6 @@
+{
+  "name": "Quill - Privacy-First Feed Reader",
+  "description": "A privacy-first RSS & Atom reader with local IndexedDB storage, full-text readability extraction, offline capability, and zero-knowledge recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

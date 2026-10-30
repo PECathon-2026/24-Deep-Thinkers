@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="quillGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#d97706" />
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1c1917" />
+      <stop offset="100%" stop-color="#0c0a09" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="url(#bgGrad)" />
+  <!-- RSS Waves -->
+  <circle cx="150" cy="362" r="32" fill="url(#quillGrad)" />
+  <path d="M120 250 A 144 144 0 0 1 264 394" fill="none" stroke="url(#quillGrad)" stroke-width="32" stroke-linecap="round" />
+  <path d="M120 170 A 224 224 0 0 1 344 394" fill="none" stroke="url(#quillGrad)" stroke-width="32" stroke-linecap="round" opacity="0.6" />
+  <!-- Quill Nib -->
+  <path d="M380 100 C 330 110 270 160 250 210 C 235 245 230 290 220 330 L 250 340 C 280 290 320 250 370 210 C 400 185 415 130 380 100 Z" fill="#fafaf9" />
+  <path d="M220 330 L 195 375 L 250 340 Z" fill="#d97706" />
+  <path d="M260 230 L 310 280" stroke="#78716c" stroke-width="6" stroke-linecap="round" />
+</svg>
